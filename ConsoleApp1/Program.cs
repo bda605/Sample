@@ -8,13 +8,23 @@ namespace ConsoleApp1
         {
             int i = 1;
             int j = 2;
+            int y = 3;
             Console.WriteLine("Hello World!");
         }
 
         public void Add()
         {
             
-        }  
-      
+        }
+
+        public void Create()
+        {
+            
+        }
+
+        public void Qry()
+        {
+            
+        } 
     }
 }
