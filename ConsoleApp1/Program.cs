@@ -15,7 +15,11 @@ namespace ConsoleApp1
         public void Add()
         {
             
-        }  
-      
+        }
+
+        public void Create()
+        {
+            
+        } 
     }
 }
