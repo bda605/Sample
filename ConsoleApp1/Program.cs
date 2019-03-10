@@ -2,14 +2,18 @@
 
 namespace ConsoleApp1
 {
-    internal class Program
+     class Program
     {
         private static void Main(string[] args)
         {
             int i = 1;
             int j = 2;
             int y = 3;
+
             int z = 4;
+
+            int g = 5;
+
             Console.WriteLine("Hello World!");
         }
 
